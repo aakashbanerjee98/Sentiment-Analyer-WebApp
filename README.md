@@ -5,8 +5,9 @@ With the advent of social media, large volumes of opinionated texts are being ge
 
 ## Screenshots
 
-![App Screenshot 1](https://drive.google.com/file/d/1TR4tuFTR6y0_uBkr27-7-O6qOl1jRwZp/view?usp=sharing)
-![App Screenshot 2](https://drive.google.com/file/d/1zB4UfzGBPYhJKODbBw7MlmEAEg6FkZUi/view?usp=sharing)
+<div><img src="preview/Screenshot (31).png"></div>
+<br>
+<div><img src="preview/Screenshot (32).png"></div>
 
 
 ## Demo
