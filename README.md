@@ -12,9 +12,11 @@ With the advent of social media, large volumes of opinionated texts are being ge
 
 ## Demo
 
-
 - [Link to Demo](https://drive.google.com/file/d/1q8pOTn1bAy7aYrg6IxhdcPhyMaS-gsfM/view?usp=sharing)
 
+## Live Website
+
+- [Link Website](https://sentiment-analyzer-webapp.herokuapp.com/)
 ## Installation
 
 Install all packages listed under requirements file.Aditionally if you want to run the Lstm model as a stand alone I would suggest you to run it in google colab 
